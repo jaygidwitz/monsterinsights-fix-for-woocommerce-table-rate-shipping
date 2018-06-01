@@ -26,7 +26,7 @@ function custom_monsterinsights_remove_conflicting_asset_files() {
 	);
 	
 	$scripts = array(
-		'moment.js', //   Ecliqse Theme
+		'moment.js', //  WooCommerce Table Rate Shipping
 	);
 
 	if ( ! empty( $styles ) ) {
